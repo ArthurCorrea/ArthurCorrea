@@ -1,4 +1,4 @@
-### Olá! Bem-vindo ao meu repositório! :) 
+### Olá! :) 
 <br>
 <div align="center">
   <a href="https://github.com/ArthurCorrea">
